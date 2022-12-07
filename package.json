@@ -1,0 +1,27 @@
+{
+  "name": "apiteste",
+  "version": "1.0.0",
+  "description": "teste de api com crud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoGuterres/aulasNode.git"
+  },
+  "keywords": [
+    "es"
+  ],
+  "author": "Eduardo Guterres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardoGuterres/aulasNode/issues"
+  },
+  "homepage": "https://github.com/EduardoGuterres/aulasNode#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0",
+    "nodemon": "^2.0.20"
+  }
+}
